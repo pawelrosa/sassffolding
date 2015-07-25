@@ -4,7 +4,7 @@
 with some my modification. I removed `_variables.scss` from `utils` directory and added `vars` directoy instead which
 contains diffrent files of variables. In this way The 7-1 Pattern became 8-1 pattern.
 
-
+```
 stylesheets/
 |
 |- base/
@@ -54,7 +54,7 @@ stylesheets/
 |  |- _foundation.scss
 |
 |- file_name.scss
-
+```
 
 `rails generate sassffolding:install FILE_NAME`
 
